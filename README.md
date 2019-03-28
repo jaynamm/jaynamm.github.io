@@ -1,6 +1,5 @@
-# jaynamm.github.io
-남제이 블로그
-
 # 남제이 블로그
 
 ```jaynamm.github.io```
+
+웹 / 앱 개발을 공부하고 정리하는 블로그 입니다.
