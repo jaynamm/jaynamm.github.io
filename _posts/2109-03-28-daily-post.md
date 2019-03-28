@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "Welcome to Jay's Blog"
 date: 2019-03-28
-categories: Jay'sBlog welcome
+categories: notice
+tages: Jay'sBlog welcome
 ---
 
 안녕하세요
